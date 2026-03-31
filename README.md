@@ -1,0 +1,1 @@
+# ynough-goal-counter
